@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-07-19T21:47:33.863Z'
+datePublished: '2016-07-19T21:49:47.848Z'
 sourcePath: >-
   _posts/2016-07-19-the-takahashi-fs-60cb-apochromatic-refractor-is-the-itineran.md
 author: []
-dateModified: '2016-07-19T21:47:26.634Z'
+dateModified: '2016-07-19T21:49:36.599Z'
 title: The Takahashi FS-60CB
 description: |
   The Takahashi FS-60CB 
@@ -17,7 +17,7 @@ _type: Article
 
 ---
 ![The Takahashi FS-60CB 
-](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b6b135e2-68b7-4858-a50f-497980f4aa4e.jpg)
+](https://the-grid-user-content.s3-us-west-2.amazonaws.com/140c28c9-080c-434e-b970-2f89a1744dec.jpg)
 
 # The Takahashi FS-60CB
 
