@@ -1,7 +1,7 @@
 ---
 description: ''
-dateModified: '2016-07-19T22:50:44.708Z'
-datePublished: '2016-07-19T22:50:48.889Z'
+dateModified: '2016-07-19T22:53:47.637Z'
+datePublished: '2016-07-19T22:53:51.998Z'
 title: TSA-120 Triplet Super Apochromat
 author: []
 isBasedOnUrl: >-
