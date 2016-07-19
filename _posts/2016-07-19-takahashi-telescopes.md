@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-07-19T03:50:26.620Z'
+datePublished: '2016-07-19T03:53:41.014Z'
+sourcePath: _posts/2016-07-19-takahashi-telescopes.md
 author: []
-dateModified: '2016-07-19T03:50:21.726Z'
-title: Takahashi Telescopes
+dateModified: '2016-07-19T03:53:36.412Z'
+title: Finest apochromatic refractor telescope available today.
 description: ''
 starred: false
-sourcePath: _posts/2016-07-19-takahashi-telescopes.md
 inFeed: true
 hasPage: true
 inNav: false
@@ -14,8 +14,6 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/189120db-693f-4fb6-b71a-ca0adef9d0a7.jpg)
-
-# Takahashi Telescopes
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/657efc9b-ed02-4028-965c-e46ac1f8e861.jpg)
 
 ## Finest apochromatic refractor telescope available today.
