@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-19T21:38:18.367Z'
+datePublished: '2016-07-19T21:41:41.573Z'
 sourcePath: _posts/2016-07-19-finest-apochromatic-refractor-telescope-available-today.md
 inFeed: true
 isBasedOnUrl: >-
@@ -8,8 +8,8 @@ authors: []
 hasPage: false
 keywords: []
 author: []
-dateModified: '2016-07-19T21:37:49.800Z'
-title: Finest apochromatic refractor telescope available today.
+dateModified: '2016-07-19T21:41:37.776Z'
+title: ''
 publisher: null
 description: ''
 inLanguage: null
@@ -20,5 +20,3 @@ _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0f08c0ea-1099-4dce-a168-966a0df5e7fd.jpg)
-
-# Finest apochromatic refractor telescope available today.
