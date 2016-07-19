@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Takahashi]]></title>
         <description><![CDATA[Takahashi]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/takahashi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jul 2016 02:29:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 19 Jul 2016 02:57:57 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/takahashi/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c823b486-aea5-4e2f-9cb0-fed9161c003e.jpg">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/c823b486-aea5-4e2f-9cb0-fed9161c003e.jpg</link>
+            <guid isPermaLink="false">8bd3583b-7ec3-4078-843c-c890f97b8ade</guid>
+            <pubDate>Tue, 19 Jul 2016 02:57:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a6b7f377-15c8-4cc2-8255-e28fda4fb548.jpg">]]></description>
-            <link>undefined4c4fde9e-3afd-47c1-ad3f-8d94480d976b/index.html</link>
+            <link>https://thegrid.ai/takahashi/4c4fde9e-3afd-47c1-ad3f-8d94480d976b/index.html</link>
             <guid isPermaLink="false">4c4fde9e-3afd-47c1-ad3f-8d94480d976b</guid>
             <pubDate>Tue, 19 Jul 2016 02:29:31 GMT</pubDate>
         </item>
