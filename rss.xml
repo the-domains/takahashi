@@ -4,7 +4,7 @@
         <description><![CDATA[Takahashi]]></description>
         <link>https://thegrid.ai/takahashi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jul 2016 23:44:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2016 23:44:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/takahashi/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Finest apochromatic refractor telescope available today.]]></title>
@@ -12,6 +12,14 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/89df62f4-2a63-4668-bc41-3887337b198d.jpg</link>
             <guid isPermaLink="false">ffc1cf86-1ecd-4a7f-a970-cc524afc89f2</guid>
             <pubDate>Tue, 19 Jul 2016 21:41:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Takahashi FS-60CB]]></title>
+            <description><![CDATA[<article><h1>The Takahashi FS-60CB</h1><p>
+</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/140c28c9-080c-434e-b970-2f89a1744dec.jpg"></article>]]></description>
+            <link>https://thegrid.ai/takahashi/the-takahashi-fs-60cb-apochromatic-refractor-is-the-itineran/index.html</link>
+            <guid isPermaLink="false">0429beda-6ccd-4752-ad76-8502e69c1f1b</guid>
+            <pubDate>Tue, 19 Jul 2016 23:44:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Takahashi Mewlon 210]]></title>
@@ -26,14 +34,6 @@
             <link>https://thegrid.ai/takahashi/tsa-120-triplet-super-apochromat/index.html</link>
             <guid isPermaLink="false">4cac7143-9085-434a-a319-3573266fbcb9</guid>
             <pubDate>Tue, 19 Jul 2016 23:42:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Takahashi FS-60CB]]></title>
-            <description><![CDATA[<article><h1>The Takahashi FS-60CB</h1><p>The Takahashi FS-60CB 
-</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/140c28c9-080c-434e-b970-2f89a1744dec.jpg"></article>]]></description>
-            <link>https://thegrid.ai/takahashi/the-takahashi-fs-60cb-apochromatic-refractor-is-the-itineran/index.html</link>
-            <guid isPermaLink="false">0429beda-6ccd-4752-ad76-8502e69c1f1b</guid>
-            <pubDate>Tue, 19 Jul 2016 21:49:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
