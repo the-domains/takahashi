@@ -12,9 +12,4 @@ color:
     - '#EDB88B'
     - '#FAD8D6'
 name: Takahashi
-navigation:
-  - id: cd21c1d0-9675-467f-9d6a-450f0d448fcd
-    url: >-
-      2016-07-19-takahashi-began-manufacturing-telescopes-in-1967-their-35th.html
-    name: About Takahashi
-    type: content
+navigation: []
