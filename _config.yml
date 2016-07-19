@@ -1,14 +1,29 @@
+name: Takahashi
+favicon: null
 layout_spectrum: 0.23949767416343093
 typography_spectrum: 0.18550537154078484
+style: the-composer
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
+  brandColors:
+    - '#000000'
+    - '#ffffff'
+    - '#363636'
+    - '#d4d4d4'
+    - '#446689'
   brandStrength: 0.6507081449963152
   lightness: 0.09632456908002496
   saturation: 0.7110048227477819
   rhythmicContrast: 0.33009321987628937
-  brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-name: Takahashi
+purpose: []
