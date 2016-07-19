@@ -4,7 +4,7 @@
         <description><![CDATA[Takahashi]]></description>
         <link>https://thegrid.ai/takahashi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jul 2016 23:54:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2016 23:57:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/takahashi/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Finest apochromatic refractor telescope available today.]]></title>
@@ -12,6 +12,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/89df62f4-2a63-4668-bc41-3887337b198d.jpg</link>
             <guid isPermaLink="false">ffc1cf86-1ecd-4a7f-a970-cc524afc89f2</guid>
             <pubDate>Tue, 19 Jul 2016 23:53:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Takahashi Mewlon 210]]></title>
+            <description><![CDATA[<article><h1>Takahashi Mewlon 210</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8b33e078-c935-46d9-8399-bc3a0587627b.jpg"></article>]]></description>
+            <link>https://thegrid.ai/takahashi/takahashi-mewlon-210/index.html</link>
+            <guid isPermaLink="false">a643bf06-336c-4edc-8989-5b1cddc45067</guid>
+            <pubDate>Tue, 19 Jul 2016 23:57:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
