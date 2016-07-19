@@ -1,13 +1,13 @@
 ---
 description: ''
-dateModified: '2016-07-19T22:46:51.651Z'
-datePublished: '2016-07-19T22:47:19.416Z'
+dateModified: '2016-07-19T22:50:44.708Z'
+datePublished: '2016-07-19T22:50:48.889Z'
 title: TSA-120 Triplet Super Apochromat
 author: []
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/6e4af5fc-7b0b-42ce-9524-20b645f9fa63.jpg
-starred: false
 sourcePath: _posts/2016-07-19-tsa-120-triplet-super-apochromat.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
