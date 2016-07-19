@@ -7,18 +7,15 @@ description: >-
   produced fluorite apochromats up to 250mm but also mountings and a variety of
   state-of-the-art telescopes such as the four-element FSQ-106, Hyperbolic
   Astrographs, Newtonian-Cassegrains and Dall-Kirkham Cassegrains.
-dateModified: '2016-07-19T02:57:35.810Z'
-datePublished: '2016-07-19T02:57:49.670Z'
+dateModified: '2016-07-19T03:08:01.421Z'
+datePublished: '2016-07-19T03:08:01.934Z'
 title: ''
 author: []
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c823b486-aea5-4e2f-9cb0-fed9161c003e.jpg
-starred: false
 sourcePath: >-
   _posts/2016-07-19-takahashi-seisakusho-of-tokyo-japan-has-been-producing-fluo.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: takahashi-seisakusho-of-tokyo-japan-has-been-producing-fluo/index.html
 _type: MediaObject
 
 ---
