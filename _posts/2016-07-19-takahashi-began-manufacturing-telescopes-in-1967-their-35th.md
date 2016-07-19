@@ -2,8 +2,8 @@
 description: >-
   Takahashi began manufacturing telescopes in 1967 their 35th year of business.
   They began and remain in the sand casting business today.
-dateModified: '2016-07-19T04:41:30.176Z'
-datePublished: '2016-07-19T04:41:30.726Z'
+dateModified: '2016-07-19T05:03:07.218Z'
+datePublished: '2016-07-19T05:03:07.599Z'
 title: ''
 author: []
 sourcePath: >-
