@@ -12,9 +12,4 @@ color:
     - '#EDB88B'
     - '#FAD8D6'
 name: Takahashi
-navigation:
-  - id: 8bd3583b-7ec3-4078-843c-c890f97b8ade
-    url: >-
-      2016-07-19-takahashi-seisakusho-of-tokyo-japan-has-been-producing-fluo.html
-    name: About
-    type: content
+navigation: []
