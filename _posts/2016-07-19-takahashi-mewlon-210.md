@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-07-19T22:55:49.986Z'
+datePublished: '2016-07-19T23:44:18.650Z'
+sourcePath: _posts/2016-07-19-takahashi-mewlon-210.md
 author: []
-dateModified: '2016-07-19T22:55:46.183Z'
+dateModified: '2016-07-19T23:44:15.075Z'
 title: Takahashi Mewlon 210
 description: ''
 starred: false
-sourcePath: _posts/2016-07-19-takahashi-mewlon-210.md
 inFeed: true
 hasPage: true
 inNav: false
@@ -14,7 +14,7 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-![Takahashi Mewlon 210](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8b33e078-c935-46d9-8399-bc3a0587627b.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8b33e078-c935-46d9-8399-bc3a0587627b.jpg)
 
 # Takahashi Mewlon 210
 
