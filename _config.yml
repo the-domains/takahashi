@@ -30,5 +30,11 @@ navigation:
     url: 'http://thegrid.ai/tak-g367d/'
     name: About Takahashi
     type: external
+  - id: >-
+      https://drive.google.com/file/d/0B-5ICfO0yjhkb2RFRWRQT2M4TVE/view?usp=sharing
+    url: >-
+      https://drive.google.com/file/d/0B-5ICfO0yjhkb2RFRWRQT2M4TVE/view?usp=sharing
+    name: Dealers
+    type: external
 favicon: null
 purpose: []
