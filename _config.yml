@@ -25,11 +25,6 @@ cta:
   bucket: null
   version: null
 style: the-composer
-navigation:
-  - id: ff551dc2-7b1f-4eee-9ef8-985f53af1996
-    url: >-
-      2016-07-20-takahashi-began-manufacturing-telescopes-in-1967-their-35th.html
-    name: About Takahashi
-    type: content
+navigation: []
 favicon: null
 purpose: []
