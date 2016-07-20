@@ -1,7 +1,29 @@
-name: Takahashi
-favicon: null
-layout_spectrum: 0.8245346178300679
 typography_spectrum: 0.27276630885899067
+color:
+  brandColors:
+    - '#020202'
+    - '#949494'
+    - '#125895'
+    - '#c7c8e7'
+    - '#3591c6'
+  brandStrength: 0.6507081449963152
+  lightness: 0.09632456908002496
+  saturation: 0.7110048227477819
+  rhythmicContrast: 0.33009321987628937
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.8245346178300679
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Takahashi
+cta:
+  domain: null
+  bucket: null
+  version: null
 style: the-composer
 navigation:
   - id: 'http://thegrid.ai/tak-g367d/'
@@ -14,27 +36,9 @@ navigation:
       https://drive.google.com/file/d/0B-5ICfO0yjhkb2RFRWRQT2M4TVE/view?usp=sharing
     name: Dealers
     type: external
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#020202'
-    - '#949494'
-    - '#125895'
-    - '#c7c8e7'
-    - '#3591c6'
-  brandStrength: 0.6507081449963152
-  lightness: 0.09632456908002496
-  saturation: 0.7110048227477819
-  rhythmicContrast: 0.33009321987628937
+  - id: 'https://thegrid.formstack.com/forms/takahashicontact'
+    url: 'https://thegrid.formstack.com/forms/takahashicontact'
+    name: Contact
+    type: external
+favicon: null
 purpose: []
