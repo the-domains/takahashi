@@ -1,9 +1,9 @@
 ---
 description: >-
-  We have the finaest apochromatic refractor telescopes available today. 
-  Contact us to talk to a representative.
-dateModified: '2016-07-20T09:13:39.425Z'
-datePublished: '2016-07-20T09:13:40.216Z'
+  We have the finest apochromatic refractor telescopes available today.  Contact
+  us to talk to a representative.
+dateModified: '2016-07-20T09:13:46.654Z'
+datePublished: '2016-07-20T09:13:47.733Z'
 title: Finest apochromatic refractor telescopes available today
 author: []
 sourcePath: _posts/2016-07-19-finest-apochromatic-refractor-telescopes-available-today.md
@@ -16,5 +16,5 @@ _type: MediaObject
 ---
 # Finest apochromatic refractor telescopes available today
 
-We have the finaest apochromatic refractor telescopes available today.   
+We have the finest apochromatic refractor telescopes available today.   
 Contact us to talk to a representative.
