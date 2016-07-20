@@ -30,9 +30,5 @@ navigation:
     url: 'http://thegrid.ai/tak-g367d/'
     name: About Takahashi
     type: external
-  - id: svetly@gmail.com
-    url: svetly@gmail.com
-    name: Contact
-    type: external
 favicon: null
 purpose: []
