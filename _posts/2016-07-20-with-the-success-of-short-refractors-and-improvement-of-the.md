@@ -1,8 +1,10 @@
 ---
-datePublished: '2016-07-20T16:03:28.665Z'
+datePublished: '2016-07-20T16:05:38.249Z'
+sourcePath: >-
+  _posts/2016-07-20-with-the-success-of-short-refractors-and-improvement-of-the.md
 author: []
 via: {}
-dateModified: '2016-07-20T16:03:26.077Z'
+dateModified: '2016-07-20T16:05:37.145Z'
 title: ''
 publisher: {}
 description: >-
@@ -10,8 +12,6 @@ description: >-
   CCD and DSLR cameras, Takahashi introduces the FSQ-85ED, more itinerant than
   the FSQ-106ED model, and intended for deep-sky and wide field photographers.
 starred: false
-sourcePath: >-
-  _posts/2016-07-20-with-the-success-of-short-refractors-and-improvement-of-the.md
 inFeed: true
 hasPage: true
 inNav: false
