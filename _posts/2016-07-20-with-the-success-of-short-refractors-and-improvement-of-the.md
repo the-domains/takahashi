@@ -1,16 +1,13 @@
 ---
-datePublished: '2016-07-20T16:05:38.249Z'
+datePublished: '2016-07-20T16:05:44.205Z'
 sourcePath: >-
   _posts/2016-07-20-with-the-success-of-short-refractors-and-improvement-of-the.md
 author: []
 via: {}
-dateModified: '2016-07-20T16:05:37.145Z'
+dateModified: '2016-07-20T16:05:43.515Z'
 title: ''
 publisher: {}
-description: >-
-  With the success of short refractors and improvement of the performances of
-  CCD and DSLR cameras, Takahashi introduces the FSQ-85ED, more itinerant than
-  the FSQ-106ED model, and intended for deep-sky and wide field photographers.
+description: FSQ-85ED Flatfield Super Quadruplet
 starred: false
 inFeed: true
 hasPage: true
@@ -21,6 +18,8 @@ _type: Article
 
 ---
 ![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c4009e46c139a868b9dcfcbe5b4256b4/croprotate.jpg?cropheight=424&cropwidth=600&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F68f5b2df-7d4c-4a2e-8a5c-ef310a30eb40.jpg&x=0&y=83)
+
+FSQ-85ED Flatfield Super Quadruplet
 
 With the success of short refractors and improvement of the performances of CCD and DSLR cameras, Takahashi introduces the FSQ-85ED, more itinerant than the FSQ-106ED model, and intended for deep-sky and wide field photographers.
 
