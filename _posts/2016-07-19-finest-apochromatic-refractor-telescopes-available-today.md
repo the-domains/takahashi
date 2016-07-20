@@ -4,8 +4,8 @@ description: >-
   Takahashi instruments are made by hand to extremely tight tolerances. Only the
   finest components are used and there is a full five-year warranty on all
   mechanical and optical assemblies.
-dateModified: '2016-07-20T09:37:46.917Z'
-datePublished: '2016-07-20T09:37:47.469Z'
+dateModified: '2016-07-20T09:38:56.636Z'
+datePublished: '2016-07-20T09:38:57.529Z'
 title: Contact for Inquiry
 author: []
 sourcePath: _posts/2016-07-19-finest-apochromatic-refractor-telescopes-available-today.md
