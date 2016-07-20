@@ -1,8 +1,8 @@
 ---
-datePublished: '2016-07-19T23:57:31.026Z'
+datePublished: '2016-07-20T13:53:27.378Z'
 sourcePath: _posts/2016-07-19-takahashi-mewlon-210.md
 author: []
-dateModified: '2016-07-19T23:54:12.589Z'
+dateModified: '2016-07-20T13:53:26.906Z'
 title: Takahashi Mewlon 210
 description: ''
 starred: false
