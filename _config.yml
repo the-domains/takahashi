@@ -25,6 +25,10 @@ cta:
   bucket: null
   version: null
 style: the-composer
-navigation: []
+navigation:
+  - id: 'http://thegrid.ai/tak-g367d/'
+    url: 'http://thegrid.ai/tak-g367d/'
+    name: About Takahashi
+    type: external
 favicon: null
 purpose: []
