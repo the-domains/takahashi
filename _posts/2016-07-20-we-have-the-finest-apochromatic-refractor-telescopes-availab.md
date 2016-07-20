@@ -1,7 +1,7 @@
 ---
 description: Contact to Inquire
-dateModified: '2016-07-20T09:43:52.758Z'
-datePublished: '2016-07-20T09:43:53.288Z'
+dateModified: '2016-07-20T09:43:55.206Z'
+datePublished: '2016-07-20T09:43:55.546Z'
 title: ''
 author: []
 isBasedOnUrl: >-
@@ -15,6 +15,8 @@ inNav: false
 _type: MediaObject
 
 ---
-Contact to Inquire
+[Contact to Inquire][0]
 
 We have the finest apochromatic refractor telescopes available today. Takahashi instruments are made by hand to extremely tight tolerances. Only the finest components are used and there is a full five-year warranty on all mechanical and optical assemblies.
+
+[0]: https://thegrid.formstack.com/forms/takahashicontact
