@@ -1,12 +1,8 @@
 ---
-description: >-
-  We have the finest apochromatic refractor telescopes available today.  Contact
-  us to talk to a representative. Takahashi instruments are made by hand to
-  extremely tight tolerances. Only the finest components are used and there is a
-  full five-year warranty on all mechanical and optical assemblies.
-dateModified: '2016-07-20T09:25:06.050Z'
-datePublished: '2016-07-20T09:25:06.622Z'
-title: Contact for Inquiry
+description: Contact for Inquiry
+dateModified: '2016-07-20T09:29:18.866Z'
+datePublished: '2016-07-20T09:29:19.359Z'
+title: ''
 author: []
 sourcePath: _posts/2016-07-19-finest-apochromatic-refractor-telescopes-available-today.md
 starred: false
@@ -16,9 +12,6 @@ inNav: false
 _type: MediaObject
 
 ---
-# [Contact for Inquiry][0]
+Contact for Inquiry
 
-We have the finest apochromatic refractor telescopes available today.   
-Contact us to talk to a representative. Takahashi instruments are made by hand to extremely tight tolerances. Only the finest components are used and there is a full five-year warranty on all mechanical and optical assemblies.
-
-[0]: https://thegrid.formstack.com/forms/takahashicontact
+We have the finest apochromatic refractor telescopes available today. Takahashi instruments are made by hand to extremely tight tolerances. Only the finest components are used and there is a full five-year warranty on all mechanical and optical assemblies.
